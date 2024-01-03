@@ -1,13 +1,6 @@
-# Count buttons
-
-A simple React project that includes a `Count` component with increment and decrement buttons. The color of the displayed number changes dynamically based on its value.
-
-![Project Result](/public/images/decrement.png)
-![Project Result](/public/images/zero.png)
-![Project Result](/public/images/increment.png)
-
 ## Table of Contents
 
+- [Description](#count-buttons)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -15,6 +8,14 @@ A simple React project that includes a `Count` component with increment and decr
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+# Count Buttons
+
+A simple React project that includes a `Count` component with increment and decrement buttons. The color of the displayed number changes dynamically based on its value.
+
+![Project Result](/public/images/decrement.png)
+![Project Result](/public/images/zero.png)
+![Project Result](/public/images/increment.png)
 
 ## Features
 
