@@ -1,4 +1,4 @@
-# Project Name
+# Count buttons
 
 A simple React project that includes a `Count` component with increment and decrement buttons. The color of the displayed number changes dynamically based on its value.
 
